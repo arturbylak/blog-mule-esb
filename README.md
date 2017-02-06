@@ -1,2 +1,2 @@
 # blog-mule-esb
-Mule ESB = example project
+Mule ESB - example project
